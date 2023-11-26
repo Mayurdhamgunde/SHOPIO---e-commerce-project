@@ -1,4 +1,4 @@
-# SHOPIO---e-commerce-project
+# SHOPIO :- E-commerce-project
 A sample of E-Commerce Website built using HTML, CSS, JavaScript
 
 <br>
